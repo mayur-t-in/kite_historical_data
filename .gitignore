@@ -1,0 +1,7 @@
+config.json
+.kite_session.json
+instruments.csv
+output/
+__pycache__/
+*.pyc
+*.part
